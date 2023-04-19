@@ -1,0 +1,9 @@
+.btn-brown {
+	background-color: #362222;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bolder;
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
+}
